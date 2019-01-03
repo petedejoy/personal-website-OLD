@@ -6,11 +6,13 @@ image: /assets/img/acadia.jpg
 
 # About
 
-Hi there! My name's Petey DeJoy and I like startups, tech, skiing, playing guitar, and learning about people who are different from me.
+Hi there! My name's Pete DeJoy and I like startups, tech, skiing, playing guitar, and learning about people who are different from me.
 
-![acadia](assets/img/acadia.jpg){:.lead srcset="/assets/img/acadia.jpg 1920w, /assets/img/acadia.jpg 9x60w, /assets/img/acadia.jpg 480w" data-width="1920" data-height="1080"}
+![acadia](assets/img/acadia.jpg)
+
+<!-- {:.lead srcset="/assets/img/acadia.jpg 1920w, /assets/img/acadia.jpg 9x60w, /assets/img/acadia.jpg 480w" data-width="1920" data-height="1080"}
 A shot from Acadia National Park in 2016.
-{:.figure}
+{:.figure} -->
 
 First, a little background on myself: I graduated from Bowdoin College back in May, where I studied Chemistry and Physics while taking as many music and writing courses as my schedule would allow.
 

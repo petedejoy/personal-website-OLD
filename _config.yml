@@ -19,12 +19,12 @@ baseurl:               '/personal-website'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Petey DeJoy
+title:                 Pete DeJoy
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A personal site for Petey DeJoy.
+  A personal site for Pete DeJoy.
 # A shorter description for the sidebar.
 tagline:               >
   A place for thoughts about tech, startups, music, mental health, and anything else.
@@ -39,7 +39,7 @@ logo:                  /assets/headshot.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Petey DeJoy
+  name:                Pete DeJoy
   email:               pdejoy58@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
