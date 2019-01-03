@@ -19,4 +19,4 @@ A semi-regular podcast that produce focused on the evolution of Apache Airflow a
 
 To satisfy my company's need for the ability to collect payment information, I build an app in node.js using the Stripe Elements library that successfully collects credit card information, tokenizes it on an Express server, then makes an API call to Stripe to create a new customer with the card element attributed. It also makes an API call to Mailchimp so that an onboarding drip campaign can be kicked off. I did this with 0 prior experience in javascipt or node, so it was quite the learning experience (shout out to my CTO for being a hero and debugging with late into the evening every night for a month).
 
-[<img src="../site/assets/img/projects/trial.png">](https://trial.astronomer.io)
+[![Trial](/assets/img/projects/trial.png)](https://trial.astronomer.io)
