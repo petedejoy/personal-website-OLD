@@ -19,3 +19,4 @@ I played on the Varisty Football team there, but spent my entire collegiate care
 I grew up in suburban New York, I currently live in Cincinnati and work at a tech startup called [Astronomer](https://astronomer.io) through a fellowship program called [Venture for America](https://ventureforamerica.org), and I think more people should spend time in the Midwest.
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+ 
